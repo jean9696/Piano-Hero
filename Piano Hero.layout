@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="credit.c" open="1" top="0" tabpos="2">
+		<Cursor position="145" topLine="0" />
+	</File>
+	<File name="icone.rc" open="1" top="0" tabpos="1">
+		<Cursor position="3" topLine="0" />
+	</File>
+	<File name="intro.c" open="1" top="0" tabpos="6">
+		<Cursor position="276" topLine="0" />
+	</File>
+	<File name="jeu.c" open="1" top="0" tabpos="3">
+		<Cursor position="189" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="8">
+		<Cursor position="253" topLine="0" />
+	</File>
+	<File name="score.c" open="1" top="0" tabpos="5">
+		<Cursor position="386" topLine="0" />
+	</File>
+	<File name="selection.c" open="1" top="0" tabpos="7">
+		<Cursor position="513" topLine="0" />
+	</File>
+	<File name="tuto.c" open="1" top="1" tabpos="4">
+		<Cursor position="2652" topLine="91" />
+	</File>
+</CodeBlocks_layout_file>
